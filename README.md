@@ -1,3 +1,11 @@
+
+dependency:  lombok
+          : mysql-connector-j
+          :	h2
+          :spring-boot-starter-web
+
+
+
 ![Screenshot (1456)](https://github.com/user-attachments/assets/4c6fc52e-6f7f-4927-9f25-436bec5f0d2b)
 
 ![Screenshot (1457)](https://github.com/user-attachments/assets/ab80d050-34a2-48a5-bfab-2ef51e07ce2d)
